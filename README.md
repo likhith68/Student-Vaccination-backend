@@ -1,4 +1,9 @@
-**Backend Setup (Django)**
+**1. Clone the Repository**
+git clone https://github.com/your-username/vaccine-tracker.git](https://github.com/likhith68/Student-Vaccination-backend.git
+cd student_vaccination_backend
+
+
+**2. Initial Setup (Django)**
 cd backend
 python -m venv env
 source env/bin/activate (On Windows use: env\Scripts\activate)
